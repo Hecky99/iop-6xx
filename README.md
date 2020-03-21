@@ -7,3 +7,9 @@ Version 100.1
 
 Version 100.2
 -Added a header to the index.html file
+
+Version 100.3
+-added snowman divs to index.html
+-created assets/css/styles.css file
+-created styles for snowman divs
+-linked styles.css in index.html
