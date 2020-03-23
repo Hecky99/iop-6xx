@@ -11,37 +11,39 @@ body {
     width: 250px;
     margin: auto;
     overflow: visible;
-    border: dashed think green;
+    border: dashed thin green;
 }
 
-.smBody, .smFeet, .smHead{
-
+.smBody, .smFeet, .smHead {
     border: thin #000 solid;
     height: 150px;
     background-color: aliceblue;
-    border-radius: 50%;
+    border-radius: 45%;
     margin: auto auto;
 }
 
-.smHead{
+.smHead {
     position: relative;
     bottom: -60px;
     z-index: 10;
     width: 50%;
 }
 
-.smBody{
+.smBody {
     width: 70%;
     height: 200px;
     position: relative;
     bottom: -40px;
     z-index: 9;
-   
 }
 
-.smFeet{
+.smFeet {
     width: 250px;
     height: 300px;
     z-index: 8;
     margin-bottom: -40px;
 }
+
+
+
+
