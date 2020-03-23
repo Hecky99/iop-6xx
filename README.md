@@ -17,3 +17,7 @@ Version 100.3
 Version 100.4
 -deleted all content
 -re-coded first lesson of this lesson
+
+Version 100.5
+-did all setps in 100.3
+-added rest of divs needed to complete project
