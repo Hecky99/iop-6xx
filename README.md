@@ -13,3 +13,7 @@ Version 100.3
 -created assets/css/styles.css file
 -created styles for snowman divs
 -linked styles.css in index.html
+
+Version 100.4
+-deleted all content
+-re-coded first lesson of this lesson
